@@ -19,3 +19,13 @@ Step 3. Install the requirements
 pip install -r requirements.txt
 ```
 
+
+## 👨‍💻 Author
+
+**Thauhid Mahmud**
+IU,CSE
+
+
+### 📜 License
+
+This project is open-source and free to use for learning purposes.
