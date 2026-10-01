@@ -27,3 +27,21 @@ class DataIngestionConfig:
         self.TEST_DATA_FILE_PATH: str = os.path.join(
             self.TEST_DATA_ARTIFACT_FILE_DIR, DATA_INGESTION_TEST_FILE_NAME
         )
+
+
+
+@dataclass
+class DataValidationConfig:
+    def __init__(self):
+        self.UTILS = MainUtils()
+        self.SCHEMA_CONFIG = self.UTILS.read_yaml_file(filename=SCHEMA_FILE_PATH)
+        self.DATA_INGESTION_ARTIFCATS_DIR: str = os.path.join(
+             os.getcwd(), ARTIFACTS_DIR, DATA_INGESTION_ARTIFACTS_DIR
+        )
+        self.DATA_VALIDATION_ARTIFACTS_DIR: str = os.path.join(
+             os.getcwd(), ARTIFACTS_DIR, DATA_VALIDATION_ARTIFACT_DIR
+        )
+        self.DATA_DRIFT_FILE_PATH: str = os.path.join(
+            self.DATA_VALIDATION_ARTIFACTS_DIR, DATA_DRIFT_FILE_NAME
+        )
+

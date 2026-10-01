@@ -8,12 +8,12 @@ matplotlib
 PyYAML
 scikit-learn
 seaborn
-pandas
+pandas<2.0
 pymongo
 pymongo[srv]
 xgboost
-dill
-evidently
+numpy<2.0
+evidently==0.2.8
 catboost
 python-dotenv
 
