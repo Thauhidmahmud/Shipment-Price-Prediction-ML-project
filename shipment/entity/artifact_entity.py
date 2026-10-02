@@ -23,3 +23,15 @@ class DataTransformationArtifacts:
 @dataclass
 class ModelTrainerArtifacts:
     trained_model_file_path: str
+
+
+
+@dataclass
+class ModelEvaluationArtifacts:
+    evaluation_score: float
+    is_model_accepted: bool
+
+
+@dataclass
+class ModelPusherArtifacts:
+    pushed_model_file_path: str

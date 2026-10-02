@@ -92,3 +92,70 @@ class ModelTrainerConfig:
             os.getcwd(), ARTIFACTS_DIR, MODEL_TRAINER_ARTIFACTS_DIR, MODEL_FILE_NAME
         )
 
+
+@dataclass
+class ModelEvaluationConfig:
+    def __init__(self):
+        self.UTILS = MainUtils()
+
+        self.MODEL_TRAINER_ARTIFACTS_DIR: str = os.path.join(
+            os.getcwd(),
+            ARTIFACTS_DIR,
+            MODEL_TRAINER_ARTIFACTS_DIR
+        )
+
+        self.DATA_INGESTION_ARTIFACTS_DIR: str = os.path.join(
+            os.getcwd(),
+            ARTIFACTS_DIR,
+            DATA_INGESTION_ARTIFACTS_DIR
+        )
+
+        self.MODEL_EVALUATION_ARTIFACTS_DIR: str = os.path.join(
+            os.getcwd(),
+            ARTIFACTS_DIR,
+            MODEL_EVALUATION_ARTIFACTS_DIR
+        )
+
+        self.TRAINED_MODEL_FILE_PATH: str = os.path.join(
+            self.MODEL_TRAINER_ARTIFACTS_DIR,
+            MODEL_FILE_NAME
+        )
+
+        self.TEST_DATA_FILE_PATH: str = os.path.join(
+            self.DATA_INGESTION_ARTIFACTS_DIR,
+            DATA_INGESTION_TEST_DIR,
+            DATA_INGESTION_TEST_FILE_NAME
+        )
+
+        self.MODEL_EVALUATION_FILE_PATH: str = os.path.join(
+            self.MODEL_EVALUATION_ARTIFACTS_DIR,
+            MODEL_EVALUATION_FILE_NAME
+        )
+
+
+@dataclass
+class ModelPusherConfig:
+    def __init__(self):
+        self.UTILS = MainUtils()
+
+        self.MODEL_TRAINER_ARTIFACTS_DIR: str = os.path.join(
+            os.getcwd(),
+            ARTIFACTS_DIR,
+            MODEL_TRAINER_ARTIFACTS_DIR
+        )
+
+        self.MODEL_PUSHER_ARTIFACTS_DIR: str = os.path.join(
+            os.getcwd(),
+            ARTIFACTS_DIR,
+            MODEL_PUSHER_ARTIFACTS_DIR
+        )
+
+        self.TRAINED_MODEL_FILE_PATH: str = os.path.join(
+            self.MODEL_TRAINER_ARTIFACTS_DIR,
+            MODEL_FILE_NAME
+        )
+
+        self.PUSHED_MODEL_FILE_PATH: str = os.path.join(
+            self.MODEL_PUSHER_ARTIFACTS_DIR,
+            MODEL_FILE_NAME
+        )

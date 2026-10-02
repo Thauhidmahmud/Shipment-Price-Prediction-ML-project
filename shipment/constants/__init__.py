@@ -45,3 +45,13 @@ PREPROCESSOR_OBJECT_FILE_NAME = "shipping_preprocessor.pkl"
 MODEL_TRAINER_ARTIFACTS_DIR = "ModelTrainerArtifacts"
 MODEL_FILE_NAME = "shipping_price_model.pkl"
 MODEL_SAVE_FORMAT = ".pkl"
+
+
+
+S3_BUCKET_NAME = "shipment1234"
+
+MODEL_EVALUATION_ARTIFACTS_DIR = "model_evaluation"
+
+MODEL_EVALUATION_FILE_NAME = "model_evaluation.yaml"
+
+MODEL_PUSHER_ARTIFACTS_DIR = "model_pusher"
