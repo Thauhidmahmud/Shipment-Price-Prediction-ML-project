@@ -1,0 +1,674 @@
+Artist Reputation,Height,Width,Weight,Material,Price Of Sculpture,Base Shipping Price,International,Express Shipment,Installation Included,Transport,Fragile,Customer Information,Remote Location,Cost
+0.1,22.0,11.0,5178.0,Bronze,17.44,67.66,No,No,Yes,Roadways,No,Working Class,Yes,374.39
+0.38,14.0,7.0,37717.0,Marble,93.22,64.11,No,No,No,Roadways,No,Working Class,Yes,1477.63
+0.05,25.0,10.0,11529.0,Brass,16.79,37.46,No,No,No,Roadways,No,Working Class,No,247.15
+0.66,6.0,5.0,449.0,Brass,7.0,23.59,No,No,Yes,Airways,No,Working Class,No,431.99
+0.79,19.0,6.0,453.0,Aluminium,6.97,12.74,No,Yes,No,Roadways,No,Wealthy,No,513.34
+0.1,14.0,6.0,3807.0,Brass,5.87,13.18,Yes,No,Yes,Waterways,No,Wealthy,No,186.61
+0.05,22.0,6.0,137372.0,Stone,334.86,58.47,No,No,No,Airways,No,Working Class,No,865.2
+0.12,15.0,7.0,2051.0,Bronze,3.74,20.05,Yes,Yes,Yes,Airways,No,Wealthy,Yes,-246.73
+0.76,26.0,10.0,12172.0,Bronze,53.37,87.65,No,No,Yes,Airways,No,Working Class,No,2427.98
+0.11,16.0,8.0,286.0,Wood,3.0,11.92,No,No,No,Roadways,No,Wealthy,No,119.3
+0.06,13.0,7.0,39956.0,Stone,56.62,59.6,No,No,Yes,Waterways,No,Working Class,No,-385.65
+0.3,3.0,3.0,147.0,Marble,5.55,13.13,Yes,No,No,Waterways,No,Working Class,No,187.58
+0.33,8.0,4.0,194.0,Bronze,6.24,23.6,No,No,Yes,Roadways,No,Working Class,No,220.2
+0.57,15.0,6.0,43379.0,Marble,239.09,37.78,No,Yes,Yes,Airways,No,Wealthy,No,1394.69
+0.79,17.0,6.0,162.0,Wood,3.37,16.76,No,No,No,Waterways,No,Working Class,No,294.4
+0.62,31.0,7.0,2729.0,Clay,9.2,19.05,No,No,No,Roadways,Yes,Working Class,No,747.19
+0.24,9.0,5.0,1539.0,Brass,6.45,18.39,Yes,No,No,Waterways,No,Working Class,No,167.07
+0.07,38.0,16.0,2272743.0,Marble,3316.0,97.84,No,No,Yes,Roadways,Yes,Working Class,Yes,8874.89
+0.55,5.0,5.0,192.0,Clay,6.27,12.02,No,No,No,Roadways,Yes,Working Class,No,173.51
+0.03,41.0,9.0,494.0,Wood,5.58,18.88,No,Yes,Yes,Airways,No,Wealthy,No,-156.01
+0.97,23.0,6.0,96126.0,Marble,573.69,46.42,Yes,No,No,Airways,No,Working Class,No,16966.63
+0.49,13.0,7.0,926.0,Clay,5.65,24.5,Yes,No,Yes,Airways,Yes,Working Class,Yes,380.95
+0.2,13.0,7.0,560.0,Aluminium,5.64,12.78,No,Yes,Yes,Roadways,No,Wealthy,No,181.18
+0.1,21.0,12.0,1455.0,Aluminium,5.3,24.4,No,No,Yes,Roadways,No,Working Class,No,190.32
+0.62,32.0,10.0,29574.0,Brass,62.35,70.32,Yes,No,No,Waterways,No,Working Class,No,1917.62
+0.96,29.0,8.0,1628.0,Clay,6.34,18.44,No,No,Yes,Roadways,Yes,Wealthy,No,1333.65
+0.38,37.0,14.0,86943.0,Brass,191.44,55.02,Yes,Yes,No,Airways,No,Wealthy,No,1480.19
+0.22,9.0,5.0,504.0,Bronze,4.16,16.58,No,No,No,Roadways,No,Working Class,No,152.45
+0.02,6.0,4.0,74.0,Clay,6.4,10.84,Yes,No,No,Waterways,Yes,Working Class,No,110.44
+0.35,43.0,30.0,142824.0,Bronze,372.29,69.71,No,Yes,No,Airways,No,Working Class,Yes,2509.99
+0.38,17.0,8.0,72057.0,Marble,113.79,35.9,No,No,No,Roadways,No,Working Class,No,547.98
+0.53,3.0,2.0,10.0,Aluminium,3.91,24.45,Yes,Yes,No,Airways,No,Working Class,No,184.39
+0.6,41.0,9.0,995706.0,Marble,1401.65,60.5,No,No,No,Roadways,Yes,Working Class,No,5080.6
+0.93,39.0,24.0,100937.0,Bronze,1039.9,35.22,Yes,No,Yes,Roadways,No,Working Class,Yes,6879.95
+0.66,28.0,13.0,6262.0,Bronze,37.29,78.0,No,Yes,Yes,Airways,No,Wealthy,No,2058.45
+0.21,17.0,6.0,538.0,Aluminium,5.95,14.28,No,No,Yes,Roadways,No,Working Class,No,159.67
+0.14,3.0,2.0,5.0,Clay,6.81,12.7,No,No,Yes,Roadways,Yes,Working Class,No,115.87
+1.0,33.0,11.0,1564.0,Aluminium,8.52,13.03,No,No,Yes,Airways,No,Working Class,No,2999.42
+0.57,14.0,7.0,1622.0,Brass,5.24,16.81,No,No,No,Roadways,No,Working Class,Yes,310.63
+0.77,19.0,8.0,4027.0,Bronze,33.14,22.73,No,Yes,No,Roadways,No,Working Class,No,700.89
+0.32,29.0,14.0,19595.0,Bronze,41.85,41.92,No,No,Yes,Roadways,No,Working Class,Yes,560.83
+0.56,32.0,23.0,1544.0,Aluminium,4.17,13.25,No,No,Yes,Roadways,No,Wealthy,No,389.73
+0.78,28.0,10.0,346636.0,Marble,1288.51,87.1,No,Yes,Yes,Airways,No,Working Class,No,6176.07
+0.13,23.0,13.0,1648.0,Aluminium,3.44,19.28,No,No,No,Roadways,No,Wealthy,No,158.12
+0.62,30.0,11.0,445451.0,Stone,698.29,46.63,No,No,Yes,Waterways,No,Working Class,No,9342.88
+0.81,10.0,4.0,3643.0,Marble,11.46,11.16,Yes,No,Yes,Airways,No,Working Class,No,-364.59
+0.11,40.0,10.0,1626.0,Aluminium,3.01,14.52,No,No,No,Roadways,No,Working Class,No,126.48
+0.55,18.0,10.0,646.0,Aluminium,6.64,11.5,No,No,No,Roadways,No,Working Class,No,217.73
+0.1,22.0,14.0,4065.0,Clay,3.57,23.24,No,No,Yes,Airways,Yes,Working Class,Yes,260.72
+0.18,46.0,21.0,1212.0,Wood,3.1,18.71,No,Yes,Yes,Airways,No,Wealthy,No,242.2
+0.63,20.0,12.0,417.0,Wood,4.91,20.8,No,Yes,Yes,Roadways,No,Wealthy,No,462.85
+0.31,9.0,5.0,220.0,Bronze,6.91,17.84,Yes,Yes,No,Airways,No,Wealthy,No,236.93
+0.56,21.0,8.0,240.0,Wood,3.33,18.89,Yes,No,No,Roadways,No,Working Class,No,295.83
+0.87,19.0,8.0,2559.0,Brass,16.9,15.37,No,Yes,No,Roadways,No,Wealthy,No,572.48
+0.16,10.0,4.0,185.0,Aluminium,3.24,18.13,No,No,No,Waterways,No,Wealthy,No,145.72
+0.14,3.0,3.0,39.0,Clay,4.81,17.58,No,No,Yes,Roadways,Yes,Working Class,No,149.62
+0.48,30.0,15.0,17803.0,Bronze,30.31,43.24,No,Yes,No,Airways,No,Wealthy,No,956.29
+0.72,12.0,6.0,1008.0,Bronze,4.61,17.74,No,Yes,No,Roadways,No,Working Class,Yes,386.83
+0.17,14.0,7.0,171.0,Wood,6.48,13.91,Yes,No,Yes,Waterways,No,Wealthy,No,150.76
+0.51,7.0,4.0,1483.0,Marble,6.36,17.95,No,No,Yes,Roadways,No,Working Class,No,267.95
+0.3,19.0,7.0,551.0,Aluminium,6.59,13.79,No,No,No,Roadways,No,Working Class,No,153.01
+0.48,9.0,5.0,63.0,Wood,5.13,20.07,No,No,No,Roadways,No,Working Class,No,201.98
+0.86,34.0,11.0,1793759.0,Stone,1332.42,25.62,Yes,Yes,Yes,Airways,No,Wealthy,No,-84932.99
+0.07,3.0,2.0,50.0,Stone,4.46,24.61,No,Yes,Yes,Airways,No,Working Class,No,196.16
+0.42,41.0,19.0,3135.0,Aluminium,5.6,12.41,No,No,Yes,Roadways,No,Working Class,Yes,270.12
+0.97,25.0,10.0,1411.0,Aluminium,6.87,18.98,No,No,Yes,Airways,No,Wealthy,No,1369.34
+0.43,11.0,8.0,181.0,Wood,6.32,12.93,Yes,Yes,Yes,Airways,No,Working Class,No,206.29
+0.63,30.0,14.0,3235.0,Clay,15.02,10.29,Yes,No,Yes,Waterways,Yes,Working Class,No,386.95
+0.25,25.0,8.0,2059.0,Clay,7.98,18.2,Yes,No,No,Waterways,Yes,Working Class,No,204.57
+0.42,32.0,10.0,1178827.0,Stone,6913.89,81.79,No,Yes,Yes,Roadways,No,Wealthy,No,70163.5
+0.89,15.0,7.0,33146.0,Marble,315.54,48.05,No,No,Yes,Roadways,No,Working Class,No,2849.01
+0.39,27.0,14.0,507.0,Wood,3.8,21.36,No,Yes,Yes,Roadways,No,Working Class,Yes,308.14
+0.47,11.0,7.0,1318.0,Bronze,4.15,13.13,No,No,No,Roadways,No,Working Class,No,-179.33
+0.76,29.0,13.0,17479.0,Bronze,50.28,28.4,No,No,No,Roadways,No,Working Class,No,1268.42
+0.75,25.0,14.0,21020.0,Brass,126.04,51.83,No,No,No,Waterways,No,Working Class,No,1291.82
+0.16,4.0,3.0,437.0,Marble,5.38,22.96,Yes,No,Yes,Waterways,No,Wealthy,No,239.57
+0.1,6.0,4.0,45.0,Wood,4.88,14.58,Yes,No,Yes,Waterways,No,Working Class,No,128.31
+0.48,15.0,7.0,108417.0,Stone,727.24,78.35,Yes,No,Yes,Waterways,No,Working Class,Yes,9156.23
+0.84,31.0,11.0,13903.0,Bronze,102.87,90.06,Yes,No,No,Waterways,No,Wealthy,Yes,3231.68
+0.73,3.0,2.0,24.0,Brass,6.54,24.22,No,Yes,No,Roadways,No,Working Class,No,311.75
+0.37,29.0,15.0,23679.0,Bronze,9.34,96.52,No,No,Yes,Waterways,No,Working Class,No,954.13
+0.2,15.0,7.0,239.0,Wood,6.24,12.64,No,Yes,No,Airways,No,Working Class,Yes,132.0
+0.97,35.0,22.0,1999905.0,Marble,5748.93,35.08,No,No,No,Airways,No,Working Class,No,126244.65
+0.56,28.0,18.0,1382831.0,Stone,1422.22,60.02,No,No,No,Roadways,No,Working Class,No,5276.03
+0.33,35.0,19.0,12898.0,Clay,11.83,61.36,No,No,No,Roadways,Yes,Working Class,No,711.36
+0.36,31.0,9.0,5640.0,Bronze,11.52,95.32,Yes,No,Yes,Waterways,No,Working Class,No,861.14
+0.47,18.0,9.0,168774.0,Marble,376.05,28.95,No,No,Yes,Roadways,No,Working Class,Yes,1720.27
+0.3,9.0,4.0,4983.0,Marble,19.74,23.88,No,No,Yes,Roadways,No,Wealthy,No,-265.63
+0.04,15.0,6.0,52906.0,Stone,142.88,25.22,No,Yes,No,Airways,No,Working Class,No,496.08
+0.22,21.0,10.0,202624.0,Marble,817.17,48.7,No,Yes,No,Roadways,No,Wealthy,No,4506.05
+0.03,12.0,8.0,667.0,Clay,5.52,23.17,Yes,No,Yes,Airways,Yes,Wealthy,No,190.43
+0.72,8.0,4.0,4796.0,Marble,27.44,19.42,No,Yes,No,Roadways,No,Working Class,No,378.63
+0.34,15.0,7.0,2554.0,Bronze,5.79,19.37,No,No,No,Waterways,No,Working Class,No,201.81
+0.48,26.0,12.0,425182.0,Marble,509.33,78.22,No,No,No,Roadways,No,Working Class,No,3958.9
+0.66,4.0,4.0,51.0,Aluminium,4.19,11.64,No,No,No,Roadways,No,Working Class,Yes,-159.46
+0.71,30.0,18.0,20734.0,Bronze,100.87,72.63,No,No,Yes,Roadways,No,Working Class,No,2296.11
+0.92,35.0,7.0,276869.0,Marble,1749.03,37.63,No,No,No,Waterways,No,Wealthy,No,3659.9
+0.14,17.0,6.0,92177.0,Stone,157.59,82.72,No,No,No,Roadways,No,Working Class,No,638.46
+0.7,7.0,5.0,523.0,Bronze,4.43,11.64,No,No,No,Roadways,No,Working Class,No,218.82
+0.63,4.0,4.0,679.0,Stone,3.68,23.91,Yes,No,No,Waterways,No,Wealthy,No,298.07
+0.0,6.0,4.0,79.0,Aluminium,3.8,18.51,No,Yes,No,Airways,No,Wealthy,Yes,-149.96
+0.78,34.0,21.0,7285369.0,Stone,16541.09,36.09,No,Yes,Yes,Airways,No,Wealthy,No,360580.76
+0.08,17.0,11.0,175973.0,Marble,325.62,70.28,No,Yes,Yes,Airways,No,Working Class,No,1095.95
+0.54,12.0,8.0,5858.0,Brass,16.93,85.49,No,No,No,Roadways,No,Working Class,Yes,825.5
+0.84,34.0,8.0,309.0,Wood,5.23,11.18,Yes,No,Yes,Roadways,No,Working Class,Yes,709.51
+0.84,27.0,8.0,558309.0,Stone,912.53,55.98,Yes,No,No,Waterways,No,Working Class,No,149127.98
+0.37,18.0,8.0,1344.0,Clay,5.72,14.87,No,Yes,No,Airways,Yes,Wealthy,Yes,265.86
+0.63,34.0,14.0,5507.0,Clay,18.18,29.53,Yes,Yes,Yes,Airways,Yes,Wealthy,No,1280.17
+0.82,28.0,15.0,376.0,Wood,6.88,10.86,No,Yes,Yes,Roadways,No,Working Class,No,660.06
+0.51,44.0,15.0,28896.0,Bronze,113.83,38.39,Yes,No,Yes,Airways,No,Wealthy,No,1257.46
+0.82,33.0,16.0,43884.0,Bronze,171.41,40.28,Yes,No,No,Waterways,No,Wealthy,No,1769.24
+0.3,35.0,10.0,4175.0,Clay,17.67,13.81,No,Yes,Yes,Airways,Yes,Working Class,Yes,416.57
+0.72,44.0,12.0,4991242.0,Stone,29625.6,84.38,No,No,Yes,Roadways,No,Working Class,Yes,-88316.02
+0.53,33.0,17.0,5371463.0,Stone,40397.16,92.92,Yes,Yes,Yes,Airways,No,Working Class,No,468872.46
+0.12,35.0,17.0,62189.0,Bronze,72.97,76.88,No,No,No,Roadways,No,Wealthy,No,708.23
+0.05,30.0,7.0,255757.0,Marble,758.46,81.98,No,No,No,Roadways,No,Working Class,Yes,1672.75
+0.35,6.0,4.0,37.0,Wood,4.35,11.5,No,No,No,Roadways,No,Working Class,No,104.35
+0.33,4.0,4.0,64.0,Clay,5.06,20.08,No,Yes,No,Roadways,Yes,Wealthy,Yes,220.75
+0.33,30.0,16.0,2011.0,Aluminium,4.0,21.3,No,No,No,Roadways,No,Working Class,No,243.7
+0.12,37.0,15.0,50623.0,Brass,200.0,82.75,No,Yes,No,Airways,No,Wealthy,No,1026.35
+0.3,15.0,7.0,3391.0,Bronze,7.94,21.06,No,No,Yes,Airways,No,Working Class,No,266.72
+0.52,32.0,21.0,9316.0,Clay,54.46,77.16,Yes,No,Yes,Waterways,Yes,Wealthy,No,1876.76
+0.8,54.0,24.0,5074949.0,Marble,27750.6,78.67,No,Yes,Yes,Roadways,Yes,Wealthy,Yes,-236681.06
+0.2,11.0,6.0,237.0,Aluminium,3.7,18.36,No,Yes,Yes,Airways,No,Working Class,No,159.74
+0.64,11.0,7.0,719.0,Clay,5.19,21.89,No,No,Yes,Roadways,Yes,Working Class,No,340.18
+0.37,24.0,8.0,1373.0,Aluminium,6.78,14.15,No,No,Yes,Waterways,No,Wealthy,No,212.89
+0.09,29.0,9.0,440.0,Aluminium,5.16,22.32,No,No,Yes,Roadways,No,Working Class,No,182.18
+0.46,5.0,5.0,58.0,Aluminium,4.94,12.67,No,No,Yes,Waterways,No,Working Class,No,133.82
+0.09,26.0,11.0,440.0,Wood,4.39,13.23,No,No,No,Roadways,No,Working Class,No,115.44
+0.75,11.0,7.0,319.0,Aluminium,3.1,16.54,Yes,No,Yes,Waterways,No,Wealthy,Yes,374.19
+0.89,7.0,5.0,403.0,Bronze,5.54,16.9,No,Yes,No,Roadways,No,Working Class,No,-398.86
+0.69,21.0,7.0,1794.0,Clay,4.9,21.72,No,Yes,No,Airways,Yes,Wealthy,No,573.42
+0.71,38.0,12.0,73978.0,Brass,627.32,27.15,No,Yes,No,Airways,No,Wealthy,No,20352.09
+0.18,17.0,10.0,768.0,Aluminium,4.3,24.85,Yes,No,Yes,Waterways,No,Working Class,Yes,188.94
+0.27,8.0,4.0,425.0,Brass,4.05,21.97,No,No,No,Airways,No,Wealthy,No,204.56
+0.66,30.0,15.0,2814033.0,Stone,16439.28,34.99,No,Yes,Yes,Airways,No,Working Class,No,112404.52
+0.95,13.0,7.0,32136.0,Marble,51.32,69.07,No,No,No,Waterways,No,Working Class,Yes,2718.17
+0.58,29.0,20.0,1210684.0,Marble,9703.37,35.42,No,Yes,Yes,Roadways,No,Working Class,No,627732.45
+0.46,21.0,8.0,202.0,Wood,3.58,19.52,No,Yes,No,Airways,No,Wealthy,No,247.98
+0.32,5.0,5.0,287.0,Brass,3.62,20.65,No,Yes,Yes,Roadways,No,Wealthy,Yes,212.88
+0.21,12.0,8.0,37380.0,Marble,46.55,80.59,No,Yes,No,Roadways,No,Working Class,No,586.62
+0.81,22.0,14.0,848953.0,Stone,4108.99,88.58,No,No,No,Airways,No,Working Class,No,43497.87
+0.46,17.0,10.0,185865.0,Marble,678.53,57.85,Yes,No,No,Waterways,No,Working Class,No,-4639.57
+0.2,7.0,5.0,451.0,Brass,6.75,20.19,No,No,No,Roadways,No,Wealthy,No,187.49
+0.63,7.0,5.0,6301.0,Stone,36.15,53.43,No,No,Yes,Roadways,No,Working Class,No,664.4
+0.77,6.0,5.0,409.0,Bronze,4.56,21.52,Yes,No,No,Waterways,No,Working Class,No,327.91
+0.36,15.0,8.0,18757.0,Marble,26.85,74.67,No,Yes,No,Roadways,No,Wealthy,No,719.14
+0.35,8.0,4.0,4134.0,Marble,10.56,16.65,No,No,Yes,Roadways,No,Working Class,No,258.61
+0.37,19.0,8.0,108740.0,Marble,202.15,82.41,No,Yes,No,Roadways,No,Wealthy,No,1308.04
+0.41,13.0,6.0,153.0,Wood,5.26,10.09,No,No,Yes,Airways,No,Working Class,No,149.94
+0.13,3.0,2.0,166.0,Stone,6.44,18.15,Yes,No,No,Airways,No,Working Class,No,222.38
+0.57,19.0,11.0,2555.0,Clay,4.51,18.1,No,No,Yes,Roadways,Yes,Working Class,No,329.97
+0.6,24.0,14.0,14037.0,Bronze,7.3,29.48,No,Yes,No,Airways,No,Working Class,No,783.92
+0.57,22.0,6.0,688.0,Aluminium,6.46,17.94,No,No,No,Roadways,No,Working Class,No,302.1
+0.99,37.0,6.0,9934.0,Bronze,27.79,55.51,No,No,No,Roadways,No,Working Class,No,2836.93
+0.18,15.0,7.0,16227.0,Marble,46.61,54.29,Yes,Yes,Yes,Airways,No,Wealthy,Yes,-595.73
+0.52,17.0,7.0,163.0,Wood,4.83,13.07,No,Yes,Yes,Airways,No,Wealthy,Yes,242.1
+0.75,18.0,14.0,1996.0,Clay,13.05,17.95,No,Yes,No,Airways,Yes,Wealthy,No,-530.25
+0.43,39.0,11.0,3016.0,Aluminium,10.75,23.53,Yes,No,Yes,Waterways,No,Wealthy,Yes,411.23
+0.15,46.0,19.0,3192344.0,Marble,2802.14,70.93,No,No,No,Roadways,Yes,Working Class,No,-5888.11
+0.62,10.0,4.0,900.0,Brass,5.31,22.87,Yes,No,Yes,Roadways,No,Working Class,No,352.29
+0.16,16.0,6.0,600.0,Clay,4.25,11.72,Yes,No,No,Waterways,Yes,Working Class,No,140.82
+0.06,33.0,20.0,79196.0,Brass,37.46,30.87,Yes,Yes,Yes,Airways,No,Wealthy,No,1093.76
+0.41,9.0,4.0,369.0,Bronze,5.41,13.01,Yes,No,No,Airways,No,Working Class,No,183.77
+0.69,20.0,7.0,78814.0,Marble,640.27,93.5,Yes,No,No,Waterways,No,Wealthy,Yes,14481.69
+0.5,26.0,7.0,6831.0,Bronze,11.16,77.01,No,No,No,Airways,No,Working Class,Yes,971.27
+0.93,27.0,11.0,474.0,Wood,3.53,17.83,Yes,No,Yes,Waterways,No,Working Class,No,799.92
+0.66,42.0,29.0,44587296.0,Stone,114355.43,97.53,Yes,No,Yes,Roadways,No,Working Class,No,486211.79
+0.94,30.0,13.0,996709.0,Marble,5519.02,53.47,Yes,No,Yes,Airways,No,Working Class,No,137069.47
+0.56,27.0,11.0,24913.0,Brass,22.62,65.51,Yes,Yes,No,Airways,No,Wealthy,No,1422.25
+0.36,42.0,18.0,115926.0,Brass,451.59,48.88,Yes,No,Yes,Waterways,No,Working Class,No,2171.91
+0.11,24.0,8.0,283.0,Wood,5.49,21.75,No,Yes,No,Airways,No,Wealthy,No,174.4
+0.52,10.0,4.0,333.0,Brass,4.53,11.29,Yes,No,No,Waterways,No,Working Class,No,188.56
+0.41,43.0,32.0,53118478.0,Stone,135878.04,70.4,Yes,No,Yes,Waterways,No,Working Class,Yes,221014.39
+0.93,28.0,10.0,310032.0,Marble,782.16,66.82,Yes,No,No,Waterways,No,Working Class,No,50231.01
+0.21,12.0,6.0,57899.0,Stone,91.71,84.18,No,No,Yes,Airways,No,Working Class,No,1039.87
+0.75,5.0,4.0,64.0,Bronze,3.2,13.7,Yes,No,No,Airways,No,Wealthy,Yes,248.88
+0.96,10.0,4.0,254.0,Clay,6.16,16.25,No,No,Yes,Waterways,Yes,Working Class,No,-615.1
+0.17,40.0,18.0,11098.0,Clay,30.41,84.43,Yes,Yes,Yes,Airways,Yes,Wealthy,Yes,1154.39
+0.23,3.0,3.0,55.0,Brass,4.78,13.11,Yes,No,No,Waterways,No,Working Class,No,132.09
+0.53,13.0,6.0,1976.0,Bronze,12.08,24.46,No,No,No,Roadways,No,Working Class,Yes,298.76
+0.32,19.0,7.0,51131.0,Marble,71.51,79.88,No,No,No,Roadways,No,Wealthy,Yes,1097.06
+0.52,14.0,8.0,427.0,Aluminium,6.41,12.76,No,Yes,Yes,Roadways,No,Wealthy,No,291.07
+0.69,31.0,12.0,637276.0,Marble,1356.72,35.05,Yes,No,Yes,Waterways,No,Working Class,No,3276.78
+0.09,10.0,4.0,5629.0,Marble,6.74,54.75,No,Yes,No,Airways,No,Working Class,No,321.15
+0.59,19.0,8.0,12241.0,Brass,57.11,43.57,No,Yes,No,Airways,No,Working Class,Yes,1337.01
+0.82,16.0,7.0,111795.0,Stone,616.48,59.84,No,No,No,Roadways,No,Working Class,No,17851.7
+0.57,15.0,7.0,887.0,Clay,5.94,14.98,No,Yes,No,Airways,Yes,Working Class,No,307.42
+0.23,18.0,8.0,676.0,Aluminium,6.68,11.6,Yes,No,No,Airways,No,Working Class,No,133.43
+0.94,58.0,6.0,14122.0,Bronze,82.4,61.4,No,No,No,Roadways,No,Working Class,No,13919.69
+0.8,38.0,6.0,355.0,Aluminium,6.98,24.12,No,No,No,Roadways,No,Wealthy,No,763.99
+0.85,33.0,16.0,2524.0,Aluminium,3.61,20.09,Yes,No,No,Airways,No,Working Class,No,871.73
+0.72,27.0,16.0,1110009.0,Marble,4130.71,88.12,No,No,Yes,Roadways,No,Working Class,Yes,41469.06
+0.81,24.0,10.0,507.0,Aluminium,5.31,15.1,No,No,No,Roadways,No,Working Class,No,400.57
+0.33,29.0,14.0,638.0,Wood,6.99,24.12,No,Yes,No,Roadways,No,Wealthy,No,267.84
+0.72,17.0,10.0,5617.0,Bronze,53.63,53.82,No,Yes,Yes,Airways,No,Working Class,No,1739.88
+0.77,23.0,12.0,26656.0,Brass,129.83,26.09,Yes,Yes,No,Airways,No,Wealthy,No,1888.42
+0.65,10.0,4.0,1000.0,Brass,8.02,12.69,No,No,No,Airways,No,Working Class,No,449.92
+0.71,37.0,13.0,3126988.0,Stone,14889.4,37.22,No,No,No,Airways,No,Working Class,No,34742.07
+0.83,50.0,30.0,11811959.0,Marble,73407.35,96.9,Yes,No,No,Waterways,Yes,Working Class,No,3792938.06
+0.18,27.0,12.0,4343.0,Clay,5.08,22.12,Yes,Yes,No,Airways,Yes,Wealthy,No,322.52
+0.09,35.0,11.0,34085.0,Brass,84.71,80.68,No,No,Yes,Roadways,No,Wealthy,No,712.26
+0.08,15.0,7.0,6398.0,Brass,3.52,29.15,Yes,No,No,Waterways,No,Working Class,No,182.68
+0.32,16.0,7.0,180.0,Wood,6.73,16.07,Yes,No,No,Waterways,No,Working Class,No,153.05
+0.98,17.0,7.0,343.0,Aluminium,6.81,10.13,Yes,No,No,Waterways,No,Working Class,No,587.66
+0.22,8.0,5.0,51.0,Wood,5.66,24.99,No,No,Yes,Airways,No,Working Class,No,179.38
+0.37,14.0,6.0,29866.0,Marble,61.76,85.66,Yes,No,Yes,Waterways,No,Working Class,Yes,976.78
+0.53,42.0,20.0,5948486.0,Stone,13352.03,49.39,No,Yes,Yes,Roadways,No,Wealthy,No,143362.22
+0.6,14.0,8.0,2097.0,Bronze,13.75,18.16,Yes,No,No,Waterways,No,Working Class,No,267.02
+0.05,8.0,4.0,7095.0,Stone,20.87,60.76,No,Yes,No,Roadways,No,Working Class,No,390.69
+0.25,12.0,7.0,3077.0,Brass,4.26,14.69,No,Yes,No,Airways,No,Working Class,No,198.24
+0.29,20.0,14.0,2160.0,Aluminium,11.06,14.4,Yes,No,No,Waterways,No,Working Class,No,147.23
+0.37,22.0,13.0,689.0,Wood,3.04,13.83,Yes,No,No,Airways,No,Working Class,No,170.97
+0.1,17.0,9.0,7157.0,Brass,12.27,59.07,No,Yes,No,Airways,No,Working Class,No,384.34
+0.31,3.0,2.0,17.0,Clay,5.02,21.44,No,Yes,No,Airways,Yes,Wealthy,Yes,-176.03
+0.63,22.0,6.0,1624.0,Clay,6.09,12.92,No,Yes,No,Airways,Yes,Working Class,No,436.75
+0.06,32.0,10.0,353672.0,Marble,252.26,28.59,No,Yes,Yes,Airways,No,Working Class,No,1502.2
+0.6,15.0,7.0,39023.0,Marble,92.26,41.08,Yes,No,No,Waterways,No,Working Class,No,3955.22
+0.43,20.0,8.0,4876.0,Brass,11.74,20.24,Yes,No,No,Waterways,No,Working Class,No,264.58
+0.06,33.0,11.0,796617.0,Stone,1159.26,73.48,Yes,Yes,No,Airways,No,Working Class,No,3950.65
+0.61,28.0,7.0,5943.0,Brass,19.62,51.39,No,No,Yes,Roadways,No,Working Class,Yes,960.33
+0.01,28.0,10.0,591.0,Wood,5.57,14.65,Yes,No,Yes,Airways,No,Working Class,No,-122.22
+0.19,36.0,11.0,2263.0,Aluminium,3.5,21.71,No,No,No,Roadways,No,Wealthy,No,188.67
+0.39,40.0,16.0,2411058.0,Marble,7194.69,61.12,No,Yes,No,Roadways,Yes,Working Class,No,88371.54
+0.88,32.0,11.0,532.0,Wood,5.44,19.99,Yes,No,No,Waterways,No,Working Class,No,730.45
+0.4,20.0,11.0,358.0,Wood,6.25,16.8,No,Yes,Yes,Roadways,No,Working Class,Yes,241.63
+0.69,30.0,13.0,1011795.0,Marble,2913.96,94.2,No,No,No,Roadways,No,Working Class,No,8907.7
+0.23,15.0,6.0,34889.0,Marble,80.36,88.2,Yes,No,Yes,Roadways,No,Wealthy,Yes,1350.82
+0.24,29.0,11.0,2311.0,Clay,5.76,23.47,No,No,No,Roadways,Yes,Working Class,No,208.91
+0.91,6.0,4.0,2718.0,Marble,30.13,21.54,Yes,Yes,No,Airways,No,Wealthy,No,631.84
+0.07,19.0,9.0,201924.0,Stone,459.04,52.91,No,No,No,Airways,No,Working Class,No,1195.23
+0.77,24.0,10.0,197.0,Wood,5.21,13.16,No,No,Yes,Waterways,No,Working Class,No,405.16
+0.5,16.0,7.0,1050.0,Clay,5.64,22.14,No,No,Yes,Roadways,Yes,Working Class,No,298.39
+0.52,3.0,2.0,25.0,Clay,6.36,21.08,Yes,No,No,Roadways,Yes,Working Class,No,242.38
+0.82,19.0,10.0,11733.0,Brass,27.42,41.72,No,No,Yes,Waterways,No,Wealthy,Yes,1329.57
+0.42,11.0,6.0,15189.0,Marble,23.46,50.99,No,No,No,Waterways,No,Working Class,No,495.87
+0.02,21.0,11.0,14181.0,Brass,23.53,37.36,No,No,Yes,Roadways,No,Wealthy,No,301.34
+0.66,40.0,21.0,9757.0,Clay,73.63,94.06,No,No,No,Airways,Yes,Working Class,No,4262.43
+0.68,17.0,6.0,3359.0,Brass,6.24,19.75,No,Yes,No,Airways,No,Wealthy,No,617.86
+0.98,5.0,4.0,39.0,Aluminium,4.12,10.11,Yes,No,No,Airways,No,Working Class,No,226.78
+0.61,26.0,10.0,20303.0,Brass,43.06,83.55,No,No,Yes,Roadways,No,Wealthy,No,1947.47
+0.25,12.0,6.0,149.0,Wood,5.87,13.55,No,No,No,Roadways,No,Working Class,Yes,142.12
+0.19,14.0,6.0,21739.0,Marble,14.49,52.33,No,No,Yes,Airways,No,Wealthy,No,495.99
+0.8,41.0,18.0,7131016.0,Stone,29508.07,78.65,Yes,Yes,No,Airways,No,Working Class,No,-252965.99
+0.37,17.0,11.0,1737.0,Clay,3.15,16.4,No,Yes,Yes,Airways,Yes,Wealthy,No,289.07
+0.41,17.0,7.0,4044.0,Bronze,6.69,15.58,No,No,Yes,Airways,No,Working Class,Yes,309.78
+0.62,15.0,7.0,29259.0,Stone,98.68,35.08,No,Yes,Yes,Roadways,No,Working Class,Yes,-5592.07
+0.54,26.0,7.0,240565.0,Stone,140.4,88.5,No,No,Yes,Roadways,No,Working Class,Yes,2123.03
+0.78,22.0,14.0,25724.0,Brass,77.59,53.31,No,Yes,Yes,Airways,No,Working Class,No,5638.58
+0.98,12.0,7.0,478.0,Clay,3.99,14.35,No,No,Yes,Airways,Yes,Working Class,No,445.66
+0.36,15.0,8.0,531.0,Aluminium,3.39,15.96,No,No,Yes,Roadways,No,Working Class,No,179.28
+0.38,22.0,8.0,13013.0,Brass,34.49,81.55,No,No,No,Roadways,No,Working Class,No,-734.73
+0.54,20.0,7.0,126426.0,Stone,446.67,40.92,No,Yes,No,Airways,No,Wealthy,No,4148.48
+0.58,12.0,6.0,20337.0,Marble,43.34,49.18,Yes,No,Yes,Waterways,No,Working Class,No,763.41
+0.08,9.0,5.0,40.0,Wood,6.61,23.57,No,No,No,Airways,No,Working Class,No,144.06
+0.93,25.0,12.0,440.0,Wood,4.08,19.43,No,Yes,Yes,Airways,No,Working Class,No,840.88
+0.6,14.0,6.0,48185.0,Stone,199.54,35.42,Yes,No,Yes,Waterways,No,Wealthy,No,808.59
+0.78,21.0,9.0,11595.0,Brass,27.56,91.57,No,No,Yes,Airways,No,Working Class,Yes,2309.11
+0.19,36.0,9.0,691453.0,Marble,1308.83,93.62,Yes,No,Yes,Waterways,Yes,Working Class,No,-2341.42
+0.12,10.0,5.0,339.0,Clay,3.51,18.02,Yes,Yes,Yes,Airways,Yes,Working Class,No,181.39
+0.52,27.0,17.0,39133.0,Bronze,43.26,26.57,No,No,No,Waterways,No,Working Class,No,607.96
+0.46,26.0,10.0,8275.0,Brass,13.11,50.4,Yes,No,Yes,Airways,No,Working Class,No,721.91
+0.16,26.0,21.0,3721.0,Clay,9.2,14.09,Yes,Yes,No,Airways,Yes,Working Class,Yes,268.35
+0.57,37.0,19.0,5790.0,Aluminium,24.84,25.22,No,No,Yes,Waterways,No,Working Class,No,583.83
+0.17,41.0,15.0,577.0,Wood,5.65,16.95,No,No,No,Roadways,No,Working Class,No,145.18
+0.34,29.0,18.0,3955.0,Aluminium,19.03,13.0,No,No,Yes,Roadways,No,Working Class,Yes,251.02
+0.59,14.0,7.0,3605.0,Brass,14.01,19.44,No,No,Yes,Airways,No,Working Class,No,361.94
+0.15,6.0,5.0,2414.0,Marble,5.5,19.85,No,No,No,Roadways,No,Working Class,No,197.85
+0.46,41.0,12.0,75499.0,Brass,138.49,91.4,No,No,No,Roadways,No,Working Class,Yes,1583.47
+0.27,21.0,11.0,414.0,Wood,4.96,19.68,No,No,Yes,Roadways,No,Wealthy,Yes,214.21
+0.17,51.0,26.0,11075102.0,Marble,41614.21,42.42,No,Yes,Yes,Airways,Yes,Working Class,Yes,333145.3
+0.7,19.0,6.0,79610.0,Stone,343.71,35.75,No,Yes,No,Roadways,No,Working Class,No,2727.76
+0.91,32.0,14.0,1520767.0,Marble,7607.26,95.13,No,Yes,No,Airways,No,Wealthy,No,802308.74
+0.01,13.0,6.0,804.0,Clay,3.46,13.58,No,No,No,Roadways,Yes,Working Class,No,121.04
+0.32,10.0,4.0,10742.0,Stone,16.67,32.23,No,Yes,No,Roadways,No,Wealthy,No,368.87
+0.7,24.0,7.0,291.0,Aluminium,5.38,23.32,No,No,Yes,Roadways,No,Working Class,No,470.9
+0.26,40.0,22.0,10366187.0,Stone,8651.51,73.25,No,Yes,No,Airways,No,Working Class,No,172658.63
+0.29,20.0,10.0,6287.0,Brass,12.75,46.48,No,No,No,Roadways,No,Wealthy,No,411.2
+0.4,17.0,6.0,132.0,Aluminium,6.39,12.63,No,No,No,Waterways,No,Working Class,No,165.52
+0.61,22.0,8.0,374425.0,Stone,2167.1,71.65,No,Yes,Yes,Airways,No,Wealthy,No,11967.64
+0.63,31.0,16.0,1297749.0,Marble,4695.06,38.56,No,Yes,No,Airways,No,Wealthy,No,55860.52
+0.11,30.0,10.0,281.0,Wood,4.15,14.28,No,No,No,Roadways,No,Working Class,No,121.63
+0.52,15.0,6.0,540.0,Clay,3.82,12.5,Yes,No,No,Waterways,Yes,Wealthy,No,200.35
+0.89,13.0,6.0,1757.0,Bronze,11.01,24.31,No,No,No,Airways,No,Working Class,Yes,577.55
+0.08,6.0,4.0,71.0,Aluminium,6.13,18.43,Yes,No,No,Roadways,No,Working Class,Yes,159.29
+0.63,18.0,8.0,52982.0,Marble,255.76,39.67,Yes,No,Yes,Airways,No,Working Class,Yes,1536.78
+0.82,15.0,7.0,370.0,Aluminium,6.47,16.36,No,No,No,Waterways,No,Working Class,No,414.94
+0.69,17.0,6.0,961.0,Bronze,4.91,13.01,No,No,Yes,Roadways,No,Working Class,No,311.32
+0.51,19.0,8.0,622.0,Aluminium,3.63,10.06,Yes,No,No,Airways,No,Working Class,No,163.48
+0.51,6.0,5.0,4600.0,Stone,6.3,20.59,Yes,Yes,Yes,Airways,No,Wealthy,No,507.99
+0.39,18.0,10.0,479.0,Aluminium,4.05,24.97,Yes,No,No,Waterways,No,Working Class,No,258.24
+0.17,36.0,16.0,676.0,Wood,5.56,11.36,No,No,No,Airways,No,Working Class,No,120.79
+0.17,32.0,15.0,999739.0,Stone,1405.89,74.08,No,Yes,No,Roadways,No,Working Class,Yes,4329.88
+0.84,15.0,6.0,361.0,Aluminium,6.61,17.16,No,No,No,Roadways,No,Working Class,No,513.68
+0.6,21.0,11.0,519468.0,Stone,2963.77,37.73,No,Yes,Yes,Airways,No,Working Class,No,16579.54
+0.33,25.0,9.0,274.0,Wood,6.45,20.8,Yes,No,No,Waterways,No,Working Class,Yes,239.81
+0.37,25.0,15.0,1492.0,Aluminium,6.66,23.99,Yes,No,No,Airways,No,Working Class,No,310.45
+0.39,11.0,8.0,62164.0,Stone,425.76,61.88,No,No,No,Airways,No,Working Class,No,2058.93
+0.72,24.0,8.0,171.0,Wood,4.18,21.71,No,Yes,Yes,Airways,No,Working Class,No,508.46
+0.38,5.0,5.0,152.0,Clay,4.95,19.84,No,No,Yes,Roadways,Yes,Working Class,No,188.55
+0.08,26.0,11.0,461.0,Wood,6.59,20.13,Yes,No,No,Waterways,No,Working Class,No,126.3
+0.71,7.0,4.0,243.0,Bronze,6.18,16.18,No,No,No,Waterways,No,Wealthy,No,-347.49
+0.21,10.0,5.0,54.0,Wood,5.32,23.75,Yes,No,No,Waterways,No,Working Class,No,176.23
+0.45,37.0,6.0,240817.0,Marble,578.29,54.99,No,No,Yes,Airways,Yes,Working Class,Yes,4883.61
+0.59,4.0,3.0,47.0,Clay,4.45,21.66,Yes,No,Yes,Waterways,Yes,Working Class,No,224.2
+0.22,14.0,7.0,171.0,Wood,4.34,19.01,No,Yes,No,Roadways,No,Wealthy,No,163.87
+0.94,27.0,20.0,9122.0,Clay,22.21,51.9,No,Yes,No,Airways,Yes,Working Class,No,3078.18
+0.05,20.0,6.0,81599.0,Stone,45.12,39.26,No,Yes,No,Airways,No,Working Class,No,569.57
+0.49,7.0,5.0,4736.0,Stone,18.4,23.76,No,Yes,No,Airways,No,Working Class,Yes,-323.55
+0.37,18.0,9.0,233674.0,Stone,1011.11,90.95,No,Yes,No,Roadways,No,Wealthy,No,3538.17
+0.77,22.0,11.0,605.0,Wood,6.69,21.29,No,No,No,Roadways,No,Working Class,No,570.16
+0.89,21.0,6.0,60587.0,Marble,299.41,81.42,No,Yes,No,Airways,No,Wealthy,No,3201.04
+0.01,29.0,11.0,1968.0,Aluminium,6.43,12.36,No,Yes,No,Airways,No,Working Class,No,127.65
+0.41,18.0,7.0,189.0,Wood,6.58,13.64,No,No,Yes,Waterways,No,Working Class,No,192.2
+0.2,21.0,7.0,481.0,Aluminium,6.94,17.75,No,No,Yes,Roadways,No,Working Class,No,173.16
+0.28,17.0,8.0,4475.0,Bronze,22.02,23.11,No,Yes,No,Airways,No,Working Class,Yes,281.4
+0.78,25.0,20.0,30323.0,Brass,240.15,31.58,No,No,No,Roadways,No,Working Class,No,1592.32
+0.22,16.0,8.0,129647.0,Stone,577.42,41.23,Yes,No,Yes,Waterways,No,Working Class,Yes,1634.45
+0.14,33.0,15.0,7113.0,Clay,7.58,47.24,No,No,Yes,Airways,Yes,Working Class,No,383.54
+0.01,12.0,6.0,376.0,Aluminium,4.88,21.77,No,No,No,Roadways,No,Wealthy,Yes,139.13
+0.08,43.0,15.0,3412.0,Aluminium,5.7,17.44,No,No,No,Roadways,No,Working Class,Yes,141.26
+0.21,32.0,16.0,531.0,Wood,5.38,17.42,Yes,No,Yes,Airways,No,Wealthy,No,236.12
+0.9,38.0,22.0,22025.0,Clay,205.8,54.95,No,Yes,No,Airways,Yes,Wealthy,Yes,-4975.88
+0.31,28.0,12.0,9309.0,Bronze,33.12,71.84,No,No,No,Roadways,No,Wealthy,No,651.86
+0.12,30.0,16.0,8850.0,Clay,36.67,80.74,Yes,No,Yes,Waterways,Yes,Working Class,Yes,526.47
+0.81,14.0,6.0,210.0,Wood,4.5,21.81,No,Yes,No,Airways,No,Wealthy,No,494.04
+0.49,13.0,8.0,19320.0,Marble,39.53,32.55,No,No,No,Waterways,No,Working Class,No,488.25
+0.58,13.0,6.0,2933.0,Brass,6.02,13.8,Yes,No,No,Roadways,No,Wealthy,No,-351.12
+0.84,18.0,6.0,49418.0,Marble,384.12,51.76,No,Yes,No,Airways,No,Working Class,No,3142.27
+0.71,30.0,11.0,12261.0,Bronze,38.44,68.29,Yes,Yes,Yes,Airways,No,Wealthy,No,-2394.62
+0.69,26.0,12.0,640.0,Wood,4.52,14.24,No,No,Yes,Roadways,No,Working Class,No,403.98
+0.67,26.0,20.0,5188367.0,Stone,12998.53,75.88,No,No,No,Waterways,No,Working Class,Yes,23084.42
+0.39,7.0,4.0,1637.0,Marble,10.28,24.23,No,Yes,No,Airways,No,Wealthy,No,259.68
+0.22,8.0,5.0,80.0,Wood,6.08,19.63,Yes,No,No,Waterways,No,Working Class,Yes,158.37
+0.7,24.0,9.0,1531.0,Clay,8.17,21.95,Yes,No,No,Airways,Yes,Working Class,No,961.04
+0.29,9.0,5.0,104.0,Wood,3.66,14.06,No,No,No,Roadways,No,Wealthy,No,125.24
+0.18,15.0,6.0,477.0,Clay,6.35,15.4,Yes,No,No,Airways,Yes,Working Class,Yes,-189.24
+0.42,21.0,10.0,4433.0,Brass,14.05,15.69,Yes,Yes,Yes,Airways,No,Wealthy,No,470.62
+0.39,25.0,10.0,23399.0,Brass,40.28,34.98,Yes,No,No,Waterways,No,Working Class,Yes,511.46
+0.56,3.0,2.0,16.0,Clay,6.04,23.14,No,Yes,Yes,Roadways,Yes,Wealthy,No,280.9
+0.35,29.0,13.0,2100801.0,Stone,3094.46,71.37,No,No,No,Waterways,No,Working Class,No,8192.2
+0.04,8.0,4.0,6102.0,Stone,4.19,53.54,No,Yes,Yes,Airways,No,Working Class,No,321.19
+0.54,5.0,3.0,49.0,Aluminium,5.11,19.4,No,No,No,Roadways,No,Working Class,No,-194.05
+0.68,28.0,13.0,4746.0,Clay,13.31,23.72,No,No,No,Waterways,Yes,Working Class,No,527.31
+0.26,22.0,6.0,8066.0,Brass,15.77,41.69,No,No,No,Airways,No,Wealthy,No,381.54
+0.05,10.0,4.0,443.0,Bronze,3.81,16.98,No,No,Yes,Waterways,No,Working Class,No,134.01
+0.32,9.0,5.0,844.0,Brass,4.17,16.01,Yes,No,Yes,Airways,No,Working Class,No,187.46
+0.8,30.0,15.0,15976.0,Bronze,69.32,35.11,Yes,Yes,No,Airways,No,Wealthy,No,3398.38
+0.29,33.0,9.0,4780.0,Clay,14.82,19.14,No,No,Yes,Roadways,Yes,Working Class,No,307.34
+0.73,5.0,4.0,2625.0,Stone,26.18,16.33,No,Yes,No,Airways,No,Wealthy,No,431.66
+0.3,6.0,5.0,1643.0,Marble,6.34,12.16,No,No,No,Roadways,No,Working Class,No,195.68
+0.13,38.0,13.0,3480.0,Aluminium,7.22,10.39,No,No,No,Roadways,No,Working Class,Yes,132.34
+0.13,28.0,13.0,782.0,Wood,5.62,21.94,No,No,Yes,Waterways,No,Wealthy,No,198.41
+0.2,30.0,10.0,17086.0,Brass,12.18,90.23,No,Yes,Yes,Roadways,No,Wealthy,No,738.06
+0.26,33.0,23.0,9615.0,Clay,23.52,41.4,No,Yes,Yes,Airways,Yes,Working Class,No,655.09
+0.78,25.0,10.0,12856.0,Bronze,34.63,67.35,Yes,No,Yes,Waterways,No,Working Class,No,1824.87
+0.45,3.0,2.0,13.0,Clay,3.02,22.39,Yes,No,No,Roadways,Yes,Working Class,No,-190.7
+0.13,29.0,9.0,18323.0,Brass,14.34,65.75,No,No,No,Roadways,No,Working Class,Yes,-432.13
+0.77,32.0,9.0,491427.0,Marble,779.15,26.7,Yes,No,No,Waterways,No,Working Class,Yes,29753.89
+0.48,12.0,8.0,268.0,Aluminium,4.76,17.0,No,No,No,Airways,No,Working Class,No,180.88
+0.01,29.0,7.0,1004.0,Aluminium,6.05,17.5,No,Yes,No,Roadways,No,Working Class,No,-130.28
+0.17,12.0,7.0,42094.0,Stone,101.98,94.05,Yes,Yes,Yes,Airways,No,Working Class,No,861.98
+0.23,7.0,5.0,287.0,Bronze,5.25,14.88,No,Yes,Yes,Roadways,No,Wealthy,No,169.24
+0.81,9.0,4.0,70.0,Wood,6.37,18.8,No,Yes,No,Airways,No,Working Class,Yes,-448.22
+0.4,5.0,4.0,29.0,Aluminium,4.85,18.46,No,Yes,Yes,Airways,No,Working Class,No,174.97
+0.26,33.0,14.0,2321.0,Aluminium,6.9,16.53,No,No,No,Waterways,No,Working Class,No,171.09
+0.78,8.0,5.0,482.0,Bronze,5.33,14.81,No,Yes,Yes,Airways,No,Working Class,Yes,384.04
+0.16,27.0,11.0,23792.0,Brass,49.28,65.75,No,Yes,Yes,Airways,No,Working Class,No,633.23
+0.13,22.0,8.0,327.0,Aluminium,3.02,13.33,Yes,No,No,Waterways,No,Working Class,No,112.69
+0.76,31.0,19.0,39961.0,Bronze,173.74,80.04,Yes,No,Yes,Waterways,No,Working Class,No,3029.56
+0.48,30.0,11.0,11623.0,Bronze,12.85,76.49,Yes,Yes,No,Airways,No,Working Class,No,974.25
+0.46,9.0,5.0,9248.0,Marble,30.41,88.86,No,No,No,Roadways,No,Wealthy,No,763.35
+0.68,8.0,5.0,87.0,Aluminium,3.05,20.55,Yes,No,Yes,Waterways,No,Working Class,No,293.23
+0.06,38.0,7.0,220.0,Wood,3.89,20.79,No,Yes,Yes,Airways,No,Wealthy,No,178.8
+0.05,21.0,8.0,269.0,Wood,5.76,23.23,No,No,Yes,Waterways,No,Working Class,Yes,159.37
+0.61,8.0,5.0,9736.0,Stone,10.69,71.3,No,No,Yes,Roadways,No,Working Class,No,784.16
+0.29,4.0,4.0,94.0,Clay,6.43,14.32,No,No,No,Roadways,Yes,Working Class,Yes,164.72
+0.37,9.0,4.0,117.0,Aluminium,6.3,24.71,Yes,Yes,No,Airways,No,Wealthy,Yes,256.71
+0.12,25.0,13.0,20077.0,Bronze,26.27,69.1,No,No,No,Roadways,No,Working Class,No,406.14
+0.12,16.0,6.0,640.0,Clay,3.44,13.16,Yes,No,No,Waterways,Yes,Working Class,No,124.68
+0.93,19.0,6.0,117141.0,Stone,1123.45,61.58,Yes,No,No,Waterways,No,Working Class,No,3806.62
+0.34,9.0,4.0,5329.0,Marble,8.99,98.43,Yes,Yes,Yes,Airways,No,Working Class,No,753.6
+0.55,15.0,6.0,4556.0,Brass,6.65,21.17,Yes,No,Yes,Waterways,No,Working Class,No,406.02
+0.33,14.0,8.0,4022.0,Bronze,8.1,16.17,No,No,Yes,Roadways,No,Wealthy,No,312.78
+0.29,9.0,5.0,755.0,Bronze,5.79,16.16,No,No,Yes,Roadways,No,Wealthy,No,204.35
+0.23,20.0,11.0,2573.0,Clay,3.68,15.49,No,No,Yes,Airways,Yes,Working Class,No,226.0
+0.82,6.0,5.0,7062.0,Stone,54.87,41.52,No,No,No,Roadways,No,Working Class,No,1408.48
+0.74,31.0,16.0,61330.0,Brass,186.69,53.06,No,No,Yes,Roadways,No,Working Class,Yes,2036.2
+0.75,16.0,8.0,7471.0,Brass,62.82,75.3,No,Yes,Yes,Airways,No,Wealthy,No,-3170.66
+0.41,19.0,9.0,7649.0,Bronze,9.16,89.66,No,Yes,Yes,Roadways,No,Wealthy,No,1020.83
+0.97,9.0,4.0,376.0,Bronze,4.59,24.55,No,No,No,Waterways,No,Working Class,No,467.6
+0.18,34.0,15.0,482.0,Wood,6.91,15.52,No,Yes,No,Airways,No,Working Class,Yes,153.45
+0.09,20.0,7.0,564.0,Aluminium,4.2,18.25,Yes,No,No,Airways,No,Wealthy,No,161.69
+0.94,32.0,12.0,2499.0,Aluminium,6.4,24.08,No,No,Yes,Roadways,No,Working Class,Yes,1424.77
+0.94,23.0,9.0,904.0,Aluminium,5.07,17.85,Yes,No,No,Airways,No,Wealthy,No,849.23
+0.63,5.0,5.0,1864.0,Marble,16.69,11.44,Yes,Yes,No,Airways,No,Working Class,No,245.5
+0.15,20.0,11.0,218.0,Wood,3.5,17.3,Yes,No,Yes,Airways,No,Working Class,No,147.71
+0.75,5.0,4.0,68.0,Aluminium,4.01,15.24,No,No,Yes,Roadways,No,Working Class,No,227.98
+0.28,23.0,15.0,968.0,Aluminium,5.51,15.44,Yes,No,No,Roadways,No,Working Class,No,205.88
+0.77,28.0,13.0,4900.0,Clay,28.02,23.0,No,No,Yes,Airways,Yes,Working Class,No,835.68
+0.58,37.0,15.0,115674.0,Brass,354.45,67.11,Yes,Yes,No,Airways,No,Working Class,Yes,3825.66
+0.84,18.0,8.0,10381.0,Brass,26.1,45.79,Yes,Yes,No,Airways,No,Working Class,No,-1536.89
+0.27,30.0,10.0,14897.0,Bronze,34.68,36.8,No,No,Yes,Roadways,No,Working Class,No,389.55
+0.32,36.0,12.0,10995.0,Bronze,17.86,27.94,Yes,No,No,Waterways,No,Wealthy,No,337.8
+0.12,20.0,7.0,9139.0,Brass,14.17,85.67,Yes,No,No,Airways,No,Working Class,Yes,508.75
+0.64,35.0,20.0,42716.0,Bronze,283.26,78.49,Yes,No,Yes,Roadways,No,Working Class,No,3093.78
+0.77,23.0,9.0,754.0,Aluminium,5.42,18.52,No,No,No,Roadways,No,Working Class,No,443.72
+0.72,22.0,7.0,98104.0,Marble,221.18,82.11,No,No,No,Roadways,No,Wealthy,No,2362.95
+0.63,27.0,13.0,22143.0,Bronze,119.82,34.11,No,No,No,Airways,No,Working Class,No,868.51
+0.2,19.0,8.0,5202.0,Bronze,11.91,40.62,Yes,No,No,Roadways,No,Working Class,No,336.57
+0.38,12.0,8.0,36829.0,Marble,222.23,71.63,No,No,Yes,Roadways,No,Wealthy,Yes,1148.83
+0.49,37.0,10.0,648.0,Wood,4.24,14.56,No,No,Yes,Roadways,No,Working Class,Yes,273.43
+0.22,22.0,13.0,2277.0,Clay,7.12,20.36,No,No,Yes,Waterways,Yes,Working Class,No,-251.3
+0.38,45.0,11.0,10855.0,Clay,34.91,29.74,Yes,Yes,No,Airways,Yes,Wealthy,No,745.23
+0.14,5.0,4.0,1298.0,Marble,3.82,16.58,No,No,Yes,Roadways,No,Working Class,No,-172.61
+0.55,44.0,22.0,12602.0,Clay,49.81,61.45,No,No,Yes,Waterways,Yes,Working Class,No,1737.58
+0.35,73.0,36.0,5072.0,Wood,10.46,96.49,Yes,Yes,No,Airways,No,Working Class,No,1751.82
+0.32,21.0,10.0,11032.0,Bronze,38.27,41.36,No,Yes,No,Airways,No,Wealthy,No,508.02
+0.99,30.0,7.0,1104.0,Aluminium,5.91,14.04,Yes,No,Yes,Waterways,No,Working Class,No,-801.86
+0.24,36.0,16.0,2425.0,Aluminium,6.45,20.79,No,No,No,Waterways,No,Working Class,Yes,212.57
+0.31,7.0,5.0,415.0,Bronze,5.75,22.0,No,No,Yes,Airways,No,Working Class,No,-210.45
+0.64,17.0,9.0,203488.0,Stone,468.2,97.32,No,No,No,Roadways,No,Working Class,No,3719.24
+0.78,18.0,9.0,240539.0,Stone,1275.06,62.45,No,Yes,No,Airways,No,Working Class,Yes,5586.58
+0.27,29.0,12.0,1862.0,Aluminium,7.51,13.99,No,No,Yes,Roadways,No,Working Class,No,191.55
+0.49,31.0,11.0,1429155.0,Stone,1566.65,61.68,No,No,Yes,Roadways,No,Working Class,No,-5650.59
+0.08,24.0,10.0,1429.0,Clay,6.52,19.99,No,No,No,Waterways,Yes,Wealthy,No,177.42
+0.97,20.0,9.0,5691.0,Brass,41.13,28.23,No,Yes,Yes,Airways,No,Wealthy,No,2155.54
+0.93,4.0,4.0,60.0,Aluminium,6.39,24.05,No,No,No,Airways,No,Working Class,No,482.69
+0.66,8.0,5.0,731.0,Brass,5.22,21.93,Yes,No,Yes,Waterways,No,Working Class,No,-308.86
+0.24,24.0,11.0,2013.0,Aluminium,6.13,21.33,No,No,No,Roadways,No,Working Class,No,207.77
+0.86,29.0,8.0,6441.0,Bronze,12.85,60.56,Yes,No,No,Waterways,No,Wealthy,No,2065.68
+0.68,11.0,7.0,23157.0,Marble,56.71,33.62,No,No,No,Roadways,No,Working Class,No,1077.96
+0.33,30.0,13.0,44019.0,Brass,42.28,92.57,Yes,No,No,Waterways,No,Working Class,No,874.27
+0.49,40.0,16.0,8385994.0,Stone,14458.96,36.26,Yes,No,Yes,Waterways,No,Wealthy,No,28174.33
+0.04,31.0,12.0,5309.0,Clay,12.22,72.86,Yes,Yes,No,Airways,Yes,Working Class,Yes,511.79
+0.72,12.0,8.0,148.0,Wood,5.19,16.33,No,No,No,Roadways,No,Wealthy,No,355.84
+0.91,16.0,8.0,4714.0,Bronze,19.96,13.56,No,No,Yes,Roadways,No,Working Class,No,450.11
+0.32,20.0,8.0,151.0,Wood,6.04,21.8,Yes,Yes,No,Airways,No,Wealthy,No,260.84
+0.39,37.0,28.0,5081960.0,Marble,34431.89,79.22,No,No,No,Airways,Yes,Wealthy,No,88578.53
+0.34,22.0,7.0,473.0,Aluminium,4.28,10.45,No,Yes,No,Airways,No,Wealthy,No,169.57
+0.12,19.0,7.0,207649.0,Stone,219.89,95.47,No,No,Yes,Airways,No,Working Class,Yes,1238.38
+0.49,17.0,6.0,2166.0,Bronze,8.56,11.4,Yes,No,Yes,Waterways,No,Working Class,No,358.94
+0.36,18.0,16.0,251955.0,Marble,663.95,60.43,No,No,No,Roadways,No,Working Class,No,3347.5
+0.41,15.0,7.0,81.0,Wood,3.91,13.4,No,Yes,Yes,Airways,No,Wealthy,No,198.88
+0.94,12.0,7.0,312.0,Aluminium,4.61,21.53,Yes,No,No,Airways,No,Working Class,Yes,541.37
+0.38,15.0,6.0,20659.0,Marble,133.3,95.05,No,No,Yes,Roadways,No,Working Class,No,904.72
+0.37,18.0,7.0,94228.0,Marble,116.03,94.37,No,No,No,Roadways,No,Working Class,No,-918.06
+0.58,7.0,5.0,119.0,Aluminium,5.78,22.48,No,No,No,Roadways,No,Working Class,No,260.9
+0.33,4.0,4.0,570.0,Marble,5.61,12.05,Yes,No,Yes,Waterways,No,Working Class,No,221.92
+0.07,9.0,4.0,74.0,Clay,6.77,11.75,No,No,Yes,Roadways,Yes,Working Class,Yes,-137.87
+0.01,6.0,5.0,26.0,Wood,6.1,24.04,Yes,Yes,No,Airways,No,Wealthy,No,165.55
+0.77,13.0,7.0,27003.0,Marble,61.98,61.54,No,No,Yes,Roadways,No,Working Class,Yes,2599.07
+0.97,24.0,10.0,11382.0,Bronze,33.11,99.47,No,No,Yes,Roadways,No,Wealthy,No,4455.37
+0.73,38.0,9.0,596.0,Wood,3.16,23.83,No,No,No,Roadways,No,Working Class,No,552.59
+0.18,19.0,6.0,299.0,Clay,5.79,10.88,No,No,No,Roadways,Yes,Working Class,No,137.98
+0.15,22.0,7.0,687.0,Aluminium,5.38,17.88,Yes,Yes,No,Airways,No,Working Class,Yes,189.97
+0.9,39.0,13.0,10641.0,Bronze,66.06,94.8,No,No,No,Roadways,No,Wealthy,No,7075.14
+0.83,22.0,10.0,493.0,Aluminium,3.45,17.9,No,No,No,Roadways,No,Wealthy,No,544.25
+0.23,22.0,7.0,6720.0,Brass,5.67,88.98,Yes,Yes,No,Airways,No,Working Class,No,596.13
+0.58,8.0,5.0,195.0,Aluminium,6.13,15.05,Yes,No,No,Airways,No,Working Class,No,240.88
+0.47,35.0,14.0,3398653.0,Stone,7870.75,65.99,Yes,No,No,Airways,No,Working Class,No,91767.44
+0.27,58.0,27.0,24675.0,Clay,56.86,29.79,No,Yes,No,Roadways,Yes,Wealthy,No,-818.83
+0.54,23.0,11.0,27168.0,Brass,80.12,96.98,Yes,No,Yes,Roadways,No,Working Class,No,3404.67
+0.96,36.0,12.0,823830.0,Marble,4789.5,79.45,No,No,Yes,Roadways,Yes,Working Class,No,71414.42
+0.69,7.0,5.0,219.0,Clay,6.24,11.89,Yes,No,Yes,Waterways,Yes,Wealthy,No,362.44
+0.83,29.0,11.0,18147.0,Bronze,109.48,57.21,No,No,No,Roadways,No,Working Class,No,1610.91
+0.4,26.0,15.0,643.0,Aluminium,5.84,21.77,No,No,No,Roadways,No,Working Class,Yes,276.23
+0.45,37.0,9.0,1443.0,Aluminium,8.08,11.5,No,Yes,No,Airways,No,Working Class,Yes,319.67
+0.19,35.0,21.0,89371.0,Brass,194.63,39.7,Yes,No,No,Airways,No,Working Class,No,938.77
+0.47,22.0,8.0,437722.0,Stone,535.34,49.4,No,Yes,No,Roadways,No,Working Class,No,6440.06
+0.35,29.0,18.0,62230.0,Brass,161.56,86.46,No,Yes,No,Roadways,No,Working Class,No,1276.37
+0.46,33.0,7.0,155.0,Wood,4.18,21.86,No,No,No,Roadways,No,Working Class,No,256.84
+0.9,23.0,13.0,433.0,Wood,5.85,14.61,No,No,Yes,Waterways,No,Working Class,Yes,655.7
+0.81,11.0,8.0,1885.0,Bronze,5.91,17.32,No,Yes,Yes,Airways,No,Working Class,No,498.21
+0.63,8.0,4.0,476.0,Bronze,6.86,13.76,Yes,No,Yes,Waterways,No,Wealthy,Yes,302.74
+0.3,5.0,5.0,100.0,Clay,5.95,18.31,Yes,Yes,No,Airways,Yes,Wealthy,Yes,198.52
+0.71,21.0,12.0,603939.0,Stone,3538.97,95.94,No,No,No,Airways,No,Working Class,No,18029.38
+0.34,17.0,8.0,62782.0,Marble,291.17,71.7,Yes,Yes,Yes,Airways,No,Wealthy,Yes,1639.03
+0.79,21.0,10.0,10005.0,Brass,47.01,38.78,No,No,No,Roadways,No,Working Class,No,1236.38
+0.75,3.0,2.0,95.0,Stone,6.65,24.4,No,No,No,Airways,No,Working Class,No,366.68
+0.12,23.0,9.0,195226.0,Marble,245.63,49.25,No,No,No,Roadways,No,Working Class,No,-834.27
+0.48,29.0,13.0,31962.0,Brass,65.49,87.35,No,No,No,Roadways,No,Wealthy,No,1684.67
+0.72,7.0,4.0,41.0,Wood,3.66,24.03,No,No,No,Waterways,No,Working Class,No,263.44
+0.57,25.0,16.0,1948.0,Aluminium,6.2,14.85,No,No,No,Roadways,No,Working Class,No,297.34
+0.68,6.0,5.0,142.0,Clay,6.46,19.95,No,No,No,Waterways,Yes,Working Class,No,-290.21
+0.68,30.0,13.0,2261.0,Aluminium,6.27,10.47,No,Yes,No,Roadways,No,Working Class,No,427.62
+0.89,20.0,6.0,1136.0,Clay,5.19,13.91,No,Yes,Yes,Roadways,Yes,Working Class,No,621.41
+0.5,15.0,6.0,545.0,Clay,6.27,11.91,No,No,No,Airways,Yes,Working Class,No,229.89
+0.48,10.0,4.0,396.0,Bronze,6.78,14.43,No,Yes,Yes,Airways,No,Wealthy,No,257.52
+0.83,24.0,7.0,549.0,Aluminium,4.08,14.98,No,No,No,Roadways,No,Working Class,No,371.28
+0.56,4.0,4.0,28.0,Wood,6.06,14.76,Yes,No,No,Waterways,No,Working Class,No,174.74
+0.86,18.0,8.0,134.0,Wood,5.1,11.81,No,No,Yes,Waterways,No,Working Class,Yes,404.96
+0.61,29.0,6.0,529.0,Aluminium,5.74,15.22,Yes,Yes,No,Airways,No,Wealthy,No,405.01
+0.53,9.0,5.0,684.0,Bronze,3.97,19.92,No,No,No,Roadways,No,Working Class,No,208.41
+0.87,23.0,16.0,1258488.0,Stone,4850.98,71.87,Yes,No,No,Waterways,No,Working Class,Yes,46376.54
+0.35,30.0,9.0,2837.0,Clay,6.18,13.67,Yes,No,No,Waterways,Yes,Working Class,No,212.69
+0.31,15.0,7.0,45507.0,Marble,260.64,87.51,No,Yes,Yes,Roadways,No,Working Class,No,1139.03
+0.22,54.0,20.0,20239.0,Clay,8.15,44.44,Yes,No,Yes,Waterways,Yes,Working Class,No,496.03
+0.16,21.0,13.0,2461.0,Clay,3.18,12.81,No,Yes,No,Roadways,Yes,Working Class,No,180.08
+0.61,17.0,6.0,367.0,Aluminium,4.64,15.25,No,No,Yes,Roadways,No,Working Class,No,276.52
+0.68,46.0,9.0,27614.0,Bronze,23.79,90.69,Yes,No,No,Waterways,No,Working Class,No,1862.96
+0.73,37.0,9.0,1001690.0,Stone,1647.4,80.93,No,Yes,No,Airways,No,Working Class,No,13204.9
+0.74,16.0,8.0,724.0,Aluminium,6.54,16.13,No,Yes,Yes,Airways,No,Wealthy,No,573.76
+0.12,37.0,22.0,7403.0,Aluminium,6.29,51.76,No,No,Yes,Roadways,No,Wealthy,No,405.65
+0.07,13.0,6.0,367.0,Clay,3.15,11.68,Yes,No,No,Waterways,Yes,Working Class,No,124.81
+0.17,13.0,7.0,285.0,Clay,6.96,17.34,Yes,Yes,No,Airways,Yes,Working Class,No,192.38
+0.49,23.0,13.0,1606547.0,Stone,3950.18,38.36,Yes,No,Yes,Airways,No,Wealthy,No,20060.83
+0.82,44.0,20.0,5965789.0,Marble,5909.09,60.28,No,Yes,No,Airways,Yes,Wealthy,No,282201.63
+0.72,25.0,13.0,1829.0,Aluminium,5.93,13.34,No,No,No,Roadways,No,Working Class,No,348.27
+0.77,33.0,25.0,3390.0,Aluminium,31.52,20.14,Yes,Yes,No,Airways,No,Working Class,No,1145.79
+0.38,13.0,6.0,22348.0,Marble,107.85,61.52,No,Yes,Yes,Roadways,No,Working Class,No,762.87
+0.68,10.0,4.0,3734.0,Marble,5.09,13.92,No,No,Yes,Airways,No,Working Class,No,333.43
+0.32,12.0,6.0,595.0,Clay,5.37,11.4,Yes,Yes,No,Airways,Yes,Working Class,No,182.56
+0.85,36.0,20.0,80924.0,Bronze,307.61,79.61,No,No,Yes,Waterways,No,Wealthy,No,6242.5
+0.83,15.0,7.0,2524.0,Brass,5.1,14.1,No,No,No,Roadways,No,Working Class,No,406.03
+0.59,47.0,21.0,14083967.0,Stone,84326.76,52.17,No,No,No,Airways,No,Working Class,Yes,2117963.73
+0.82,16.0,8.0,580.0,Aluminium,3.81,21.39,No,No,No,Roadways,No,Working Class,Yes,494.45
+0.72,13.0,7.0,4192.0,Brass,10.37,14.85,No,No,Yes,Waterways,No,Working Class,No,292.58
+0.97,34.0,16.0,511.0,Wood,6.03,24.94,Yes,Yes,No,Airways,No,Working Class,No,1577.2
+0.26,15.0,6.0,2962.0,Brass,5.92,19.07,No,No,No,Waterways,No,Working Class,No,173.46
+0.14,38.0,22.0,1342220.0,Marble,2297.62,68.06,No,No,No,Roadways,Yes,Working Class,No,4550.72
+0.76,22.0,6.0,876.0,Aluminium,5.52,13.77,Yes,No,Yes,Waterways,No,Working Class,No,430.49
+0.53,36.0,8.0,188.0,Wood,4.64,19.75,Yes,No,No,Waterways,No,Wealthy,No,354.88
+0.39,24.0,9.0,413.0,Wood,4.97,23.02,No,No,No,Roadways,No,Working Class,Yes,241.12
+0.56,23.0,13.0,679881.0,Marble,876.29,54.33,No,No,Yes,Roadways,No,Wealthy,No,20339.98
+0.77,17.0,7.0,188571.0,Stone,179.72,65.8,No,No,Yes,Airways,No,Working Class,No,2933.64
+0.61,17.0,8.0,1493.0,Clay,3.72,17.09,Yes,No,No,Waterways,Yes,Working Class,No,296.57
+0.48,8.0,4.0,5164.0,Stone,22.36,99.71,No,No,Yes,Airways,No,Wealthy,No,854.89
+0.08,40.0,18.0,147330.0,Brass,195.17,94.21,Yes,No,Yes,Waterways,No,Working Class,No,771.61
+0.54,5.0,3.0,570.0,Marble,6.7,12.57,No,No,Yes,Roadways,No,Working Class,Yes,266.63
+0.92,49.0,23.0,8239094.0,Marble,57319.17,58.42,No,No,No,Roadways,Yes,Working Class,No,1158582.95
+0.58,43.0,9.0,525172.0,Marble,1665.64,86.7,No,No,No,Roadways,Yes,Working Class,No,4448.6
+0.11,27.0,17.0,17982.0,Bronze,7.72,43.63,No,No,No,Waterways,No,Working Class,No,278.81
+0.31,16.0,7.0,6189.0,Brass,8.56,97.39,Yes,No,Yes,Waterways,No,Working Class,No,667.74
+0.37,34.0,7.0,251.0,Wood,6.14,11.1,No,No,Yes,Roadways,No,Working Class,Yes,174.52
+0.75,15.0,7.0,136282.0,Stone,1250.31,70.21,Yes,Yes,No,Airways,No,Wealthy,No,-4763.85
+0.53,5.0,3.0,875.0,Marble,5.48,12.91,No,Yes,No,Roadways,No,Working Class,No,221.16
+0.06,30.0,7.0,256.0,Wood,3.06,23.36,No,No,No,Waterways,No,Working Class,Yes,138.91
+0.44,20.0,7.0,585.0,Aluminium,6.81,19.84,No,No,Yes,Airways,No,Working Class,No,267.62
+0.8,29.0,9.0,1260.0,Aluminium,11.77,19.77,No,No,Yes,Waterways,No,Working Class,No,621.85
+0.27,36.0,22.0,3742712.0,Marble,11880.96,53.8,No,No,No,Airways,Yes,Wealthy,No,22524.89
+0.08,38.0,11.0,21454.0,Bronze,49.11,61.86,No,Yes,No,Airways,No,Wealthy,No,488.93
+0.75,14.0,7.0,136.0,Wood,4.16,23.98,Yes,No,Yes,Airways,No,Working Class,Yes,500.08
+0.47,49.0,20.0,5838.0,Aluminium,3.83,57.41,Yes,No,Yes,Waterways,No,Working Class,No,849.82
+0.69,15.0,7.0,55539.0,Stone,198.55,41.25,No,No,Yes,Roadways,No,Wealthy,No,1328.52
+0.11,17.0,7.0,133437.0,Stone,210.57,94.13,No,No,Yes,Roadways,No,Working Class,No,-1050.81
+0.71,20.0,7.0,102155.0,Marble,491.16,84.03,No,No,No,Roadways,No,Working Class,No,4324.9
+0.46,18.0,8.0,101218.0,Marble,223.17,62.93,Yes,No,No,Waterways,No,Working Class,No,1082.22
+0.05,41.0,17.0,3071.0,Aluminium,6.1,11.62,Yes,No,No,Waterways,No,Working Class,No,105.23
+0.45,6.0,5.0,708.0,Brass,5.12,13.1,Yes,Yes,No,Airways,No,Working Class,No,193.79
+0.4,28.0,12.0,20677.0,Bronze,68.6,91.84,No,Yes,Yes,Airways,No,Wealthy,No,1587.84
+0.62,35.0,9.0,4435.0,Clay,11.89,15.11,No,No,Yes,Airways,Yes,Working Class,No,458.77
+0.52,37.0,29.0,24046.0,Clay,70.56,82.43,Yes,Yes,Yes,Airways,Yes,Working Class,No,3555.1
+0.45,16.0,7.0,140.0,Wood,4.36,18.01,No,Yes,Yes,Roadways,No,Working Class,No,211.41
+0.29,13.0,6.0,49743.0,Stone,154.02,81.2,Yes,Yes,Yes,Airways,No,Wealthy,No,1187.24
+0.6,8.0,4.0,59.0,Wood,5.5,14.53,Yes,No,Yes,Roadways,No,Working Class,No,-247.89
+0.25,11.0,7.0,1197.0,Bronze,3.66,18.64,Yes,No,Yes,Waterways,No,Working Class,Yes,214.78
+0.24,12.0,6.0,2938.0,Brass,5.38,11.37,Yes,Yes,Yes,Airways,No,Wealthy,No,245.96
+0.65,37.0,14.0,958.0,Wood,4.41,13.54,Yes,No,No,Waterways,No,Working Class,No,291.34
+0.92,36.0,12.0,4260.0,Clay,12.76,13.29,No,Yes,Yes,Roadways,Yes,Wealthy,No,1356.49
+0.31,5.0,5.0,349.0,Brass,5.81,13.32,No,Yes,No,Airways,No,Wealthy,No,-172.58
+0.17,17.0,6.0,1388.0,Bronze,5.04,14.59,Yes,No,No,Roadways,No,Working Class,No,162.46
+0.15,35.0,14.0,2828.0,Aluminium,5.39,10.73,No,No,No,Roadways,No,Working Class,No,124.89
+0.67,18.0,6.0,312.0,Aluminium,5.96,10.78,No,Yes,No,Airways,No,Wealthy,Yes,311.33
+0.09,6.0,5.0,7399.0,Stone,5.35,57.8,No,No,No,Airways,No,Working Class,Yes,390.78
+0.94,15.0,7.0,371.0,Aluminium,5.39,13.75,No,Yes,Yes,Airways,No,Wealthy,Yes,586.24
+0.59,24.0,11.0,285.0,Wood,5.02,21.16,No,Yes,No,Airways,No,Working Class,No,354.09
+0.56,47.0,15.0,7929007.0,Stone,34009.33,59.66,No,No,Yes,Roadways,No,Working Class,Yes,157304.93
+0.68,18.0,9.0,60774.0,Marble,323.71,77.3,No,Yes,Yes,Airways,No,Working Class,No,3230.58
+0.43,22.0,10.0,285.0,Wood,6.05,12.42,Yes,No,Yes,Waterways,No,Working Class,No,221.41
+0.37,24.0,10.0,1231.0,Aluminium,3.36,16.7,No,No,Yes,Roadways,No,Working Class,Yes,220.62
+0.82,18.0,6.0,4849.0,Brass,11.79,16.1,Yes,No,No,Waterways,No,Working Class,No,388.85
+0.32,13.0,6.0,142.0,Wood,6.25,18.37,Yes,No,No,Waterways,No,Working Class,No,190.69
+0.18,6.0,5.0,197.0,Clay,4.17,22.73,No,No,No,Roadways,Yes,Working Class,No,158.81
+0.23,4.0,4.0,1628.0,Stone,6.95,15.32,No,No,Yes,Airways,No,Working Class,No,201.52
+0.05,24.0,7.0,5089.0,Bronze,3.0,56.19,No,No,No,Waterways,No,Working Class,No,287.76
+0.29,37.0,9.0,4151.0,Clay,9.07,24.8,Yes,Yes,No,Airways,Yes,Wealthy,Yes,486.53
+0.37,21.0,6.0,207.0,Wood,4.42,11.4,No,Yes,No,Airways,No,Working Class,No,141.84
+0.65,22.0,6.0,8737.0,Brass,22.05,68.33,No,Yes,Yes,Airways,No,Working Class,No,1271.89
+0.71,14.0,8.0,236.0,Aluminium,4.93,19.43,No,No,No,Airways,No,Working Class,Yes,358.77
+0.74,37.0,12.0,222.0,Wood,3.72,16.16,No,No,No,Roadways,No,Working Class,No,408.94
+0.46,32.0,21.0,9288173.0,Stone,4356.91,89.88,Yes,Yes,Yes,Airways,No,Working Class,No,156875.04
+0.69,28.0,8.0,9488.0,Bronze,47.87,57.88,No,No,No,Airways,No,Working Class,No,1239.52
+0.89,40.0,14.0,919.0,Wood,3.02,19.53,No,No,No,Roadways,No,Working Class,No,848.55
+0.64,26.0,6.0,1430.0,Clay,8.69,22.07,Yes,Yes,No,Airways,Yes,Wealthy,No,860.64
+0.74,34.0,15.0,50234.0,Brass,307.44,59.8,Yes,No,No,Waterways,No,Working Class,No,2899.44
+0.5,12.0,8.0,44975.0,Marble,171.16,43.47,Yes,No,No,Airways,No,Wealthy,No,946.72
+0.01,31.0,15.0,46330.0,Bronze,82.55,46.73,Yes,No,Yes,Airways,No,Working Class,No,466.43
+0.85,6.0,5.0,4905.0,Stone,24.86,19.3,Yes,Yes,No,Airways,No,Wealthy,No,539.01
+0.74,13.0,6.0,2304.0,Bronze,10.05,20.22,No,Yes,Yes,Roadways,No,Working Class,No,-415.93
+0.16,35.0,14.0,25481.0,Brass,83.03,93.53,No,No,No,Roadways,No,Working Class,No,764.64
+0.73,30.0,9.0,990084.0,Stone,3096.24,91.59,No,No,No,Roadways,No,Working Class,No,17144.53
+0.74,8.0,5.0,1038.0,Brass,7.82,21.47,No,No,No,Roadways,No,Wealthy,No,560.08
+0.49,40.0,16.0,867.0,Wood,6.21,11.77,Yes,No,Yes,Waterways,No,Wealthy,No,298.9
+0.78,22.0,6.0,82.0,Wood,5.93,14.77,No,Yes,Yes,Roadways,No,Wealthy,No,483.25
+0.19,28.0,15.0,14351.0,Bronze,59.06,85.87,No,No,No,Roadways,No,Working Class,No,592.83
+0.42,14.0,8.0,176.0,Wood,6.84,23.11,No,No,No,Roadways,No,Working Class,No,255.88
+0.12,19.0,7.0,109618.0,Marble,83.45,46.89,No,No,No,Roadways,No,Working Class,No,-566.43
+0.45,17.0,8.0,5372.0,Bronze,7.14,47.44,No,No,No,Roadways,No,Wealthy,Yes,579.77
+0.56,29.0,8.0,10931.0,Bronze,14.11,32.52,No,No,No,Roadways,No,Working Class,No,557.06
+0.28,26.0,15.0,6420.0,Clay,18.25,35.42,Yes,No,Yes,Waterways,Yes,Working Class,No,361.23
+0.03,38.0,15.0,4428890.0,Stone,2636.44,84.85,No,Yes,No,Roadways,No,Working Class,No,8293.6
+0.71,8.0,4.0,155.0,Clay,3.82,16.99,No,No,Yes,Roadways,Yes,Working Class,No,251.96
+0.34,31.0,18.0,10691.0,Clay,19.86,29.47,Yes,No,No,Airways,Yes,Working Class,No,477.84
+0.31,33.0,9.0,1675.0,Aluminium,3.4,15.08,Yes,No,Yes,Roadways,No,Working Class,No,256.81
+0.3,14.0,6.0,47564.0,Stone,114.61,36.25,Yes,No,No,Waterways,No,Working Class,No,462.5
+0.02,8.0,4.0,426.0,Bronze,6.58,17.07,No,No,Yes,Airways,No,Working Class,No,157.54
+0.17,23.0,11.0,1832.0,Aluminium,3.39,10.19,No,No,No,Airways,No,Wealthy,No,121.06
+0.34,27.0,10.0,7435.0,Bronze,38.62,51.63,No,Yes,No,Roadways,No,Working Class,No,494.83
+0.69,11.0,8.0,827.0,Clay,6.22,20.2,No,No,No,Waterways,Yes,Working Class,Yes,414.44
+0.38,19.0,9.0,4554.0,Bronze,14.64,11.09,Yes,No,Yes,Waterways,No,Working Class,No,192.05
+0.44,14.0,6.0,29045.0,Marble,82.14,78.26,No,No,No,Roadways,No,Working Class,No,1527.97
+0.91,7.0,4.0,2655.0,Marble,17.33,10.03,No,No,Yes,Roadways,No,Working Class,No,266.23
+0.57,10.0,5.0,314.0,Clay,3.57,21.14,No,No,Yes,Roadways,Yes,Working Class,No,256.55
+0.13,25.0,14.0,11898.0,Brass,6.55,34.11,No,No,No,Waterways,No,Working Class,No,219.71
+0.33,21.0,11.0,21370.0,Brass,18.63,63.29,No,No,Yes,Roadways,No,Working Class,Yes,705.51
+0.29,9.0,5.0,973.0,Brass,4.45,13.46,Yes,Yes,Yes,Airways,No,Wealthy,No,207.73
+0.51,26.0,8.0,14194.0,Brass,31.24,54.15,No,No,No,Roadways,No,Working Class,No,775.02
+0.55,9.0,5.0,9022.0,Marble,29.47,66.33,No,Yes,No,Roadways,No,Wealthy,No,740.14
+0.9,8.0,4.0,166.0,Clay,6.21,17.33,Yes,Yes,Yes,Airways,Yes,Working Class,No,636.41
+0.45,27.0,11.0,8586.0,Brass,9.58,72.41,Yes,Yes,No,Airways,No,Working Class,Yes,1202.76
+0.13,34.0,15.0,1680232.0,Stone,3010.52,29.79,Yes,Yes,Yes,Airways,No,Wealthy,No,27815.73
+0.45,33.0,24.0,1373.0,Wood,6.82,24.63,No,No,No,Roadways,No,Wealthy,Yes,400.49
+0.17,27.0,7.0,210.0,Wood,3.62,11.65,No,No,Yes,Roadways,No,Working Class,Yes,-120.85
+0.27,7.0,5.0,494.0,Bronze,4.41,24.37,Yes,Yes,Yes,Airways,No,Wealthy,Yes,267.52
+0.79,44.0,12.0,747.0,Wood,5.1,20.97,Yes,Yes,No,Airways,No,Wealthy,No,-1046.32
+0.52,32.0,22.0,9773200.0,Stone,37746.96,90.52,No,Yes,No,Roadways,No,Wealthy,Yes,286307.31
+0.81,10.0,5.0,1410.0,Brass,6.46,12.25,No,Yes,Yes,Roadways,No,Wealthy,Yes,650.06
+0.35,26.0,14.0,5275.0,Clay,6.27,70.73,No,Yes,No,Roadways,Yes,Working Class,No,664.15
+0.24,12.0,7.0,656.0,Clay,3.28,10.47,No,Yes,No,Roadways,Yes,Wealthy,No,158.33
+0.48,15.0,8.0,202.0,Wood,3.11,20.16,No,No,Yes,Waterways,No,Working Class,No,241.47
+0.26,28.0,16.0,1626745.0,Stone,4480.78,82.99,Yes,No,No,Roadways,No,Wealthy,Yes,-14524.63
+0.4,19.0,7.0,155.0,Wood,3.71,19.07,No,Yes,Yes,Roadways,No,Working Class,No,208.35
+0.45,22.0,9.0,474405.0,Stone,1506.86,95.52,No,No,No,Airways,No,Working Class,No,4331.07
+0.27,10.0,4.0,11909.0,Stone,29.47,28.18,Yes,No,No,Waterways,No,Working Class,No,-329.2
+0.27,19.0,8.0,5293.0,Brass,10.58,77.93,Yes,No,No,Waterways,No,Working Class,No,569.23
+0.28,8.0,4.0,94.0,Aluminium,6.61,23.46,Yes,No,Yes,Airways,No,Working Class,Yes,197.69
+0.77,37.0,8.0,30180.0,Brass,66.45,99.91,Yes,Yes,No,Airways,No,Wealthy,No,5319.86
+0.02,32.0,9.0,554754.0,Marble,551.1,38.65,No,No,No,Waterways,No,Wealthy,No,969.47
+0.08,3.0,2.0,8.0,Bronze,3.59,21.04,No,No,No,Roadways,No,Working Class,No,149.39
+0.8,17.0,8.0,1543.0,Clay,13.67,18.1,No,No,Yes,Roadways,Yes,Working Class,No,428.63
+0.61,8.0,5.0,677.0,Brass,5.18,20.68,Yes,No,No,Waterways,No,Working Class,No,276.96
+0.52,24.0,6.0,199913.0,Stone,778.91,96.93,No,No,No,Roadways,No,Working Class,No,8733.24
+0.16,28.0,9.0,392789.0,Marble,1157.18,40.24,No,No,Yes,Roadways,No,Working Class,No,1737.08
+0.62,22.0,15.0,1835465.0,Stone,15171.32,42.11,No,No,Yes,Roadways,No,Working Class,No,27392.32
+0.33,11.0,7.0,88.0,Wood,4.0,19.9,No,Yes,No,Airways,No,Working Class,No,166.87
+0.6,50.0,23.0,1576.0,Wood,5.77,23.8,No,No,Yes,Waterways,No,Working Class,No,699.21
+0.35,26.0,7.0,318.0,Wood,4.76,16.34,No,Yes,Yes,Airways,No,Wealthy,No,224.43
+0.82,15.0,8.0,48643.0,Marble,63.71,33.55,Yes,No,Yes,Waterways,No,Working Class,Yes,2763.1
+0.19,20.0,6.0,478.0,Aluminium,4.2,15.0,No,No,Yes,Roadways,No,Working Class,No,146.27
+0.5,32.0,20.0,546.0,Wood,4.15,14.35,No,No,No,Waterways,No,Working Class,No,204.4
+0.87,14.0,6.0,2895.0,Brass,13.32,17.45,Yes,No,No,Waterways,No,Wealthy,No,448.07
+0.85,13.0,7.0,3996.0,Brass,38.03,24.82,No,No,No,Roadways,No,Wealthy,No,768.26
+0.4,51.0,8.0,768.0,Wood,4.96,13.94,No,No,Yes,Roadways,No,Working Class,Yes,230.67
+0.07,20.0,10.0,13465.0,Brass,8.95,75.75,Yes,No,No,Roadways,No,Working Class,No,494.2
+0.99,8.0,4.0,88.0,Aluminium,3.63,17.56,No,Yes,Yes,Airways,No,Wealthy,No,376.88
+0.76,17.0,6.0,75556.0,Stone,186.51,33.71,No,No,Yes,Roadways,No,Working Class,Yes,1162.57
+0.25,10.0,4.0,4900.0,Marble,25.83,18.35,Yes,Yes,Yes,Airways,No,Wealthy,No,-358.92
+0.71,47.0,13.0,1030.0,Wood,3.34,24.92,No,No,Yes,Roadways,No,Working Class,No,731.9
+0.93,26.0,13.0,508.0,Wood,5.39,11.08,Yes,No,No,Waterways,No,Working Class,No,493.47
+0.71,28.0,9.0,1566.0,Clay,9.62,14.25,No,No,No,Roadways,Yes,Working Class,No,916.53
+0.73,23.0,6.0,99049.0,Marble,723.09,50.56,Yes,No,Yes,Airways,No,Wealthy,No,32117.69
+0.8,7.0,4.0,990.0,Marble,3.81,18.21,No,Yes,No,Airways,No,Working Class,No,344.19
+0.37,44.0,10.0,66080.0,Brass,96.93,52.84,Yes,Yes,Yes,Airways,No,Working Class,No,2686.24
+0.55,35.0,8.0,207581.0,Marble,188.01,63.08,Yes,No,Yes,Airways,No,Working Class,No,1865.02
+0.23,18.0,8.0,3090.0,Bronze,12.96,20.21,No,No,Yes,Airways,No,Working Class,No,243.97
+0.8,6.0,5.0,80.0,Aluminium,5.87,20.42,Yes,No,No,Airways,No,Working Class,No,358.28
+0.22,23.0,9.0,136565.0,Marble,749.41,79.23,No,No,No,Roadways,No,Working Class,No,2535.89
+0.78,16.0,6.0,4197.0,Brass,27.09,22.29,No,No,No,Roadways,No,Working Class,No,476.85
+0.79,30.0,14.0,2458806.0,Stone,12416.18,36.71,No,No,Yes,Waterways,No,Working Class,No,27139.35
+0.3,26.0,9.0,1981.0,Clay,6.83,24.29,No,No,Yes,Waterways,Yes,Working Class,Yes,284.6
+0.35,29.0,8.0,24744.0,Brass,26.02,91.57,Yes,No,No,Waterways,No,Working Class,No,719.08
+0.11,12.0,6.0,37823.0,Stone,47.19,37.93,No,Yes,No,Roadways,No,Wealthy,No,468.31
